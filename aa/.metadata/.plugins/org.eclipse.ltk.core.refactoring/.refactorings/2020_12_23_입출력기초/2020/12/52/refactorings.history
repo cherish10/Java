@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;2020_12_23_입출력기초&apos;&#x0D;&#x0A;- Original project: &apos;2020_12_23_입출력기초&apos;&#x0D;&#x0A;- Original element: &apos;입출력기초.java&apos;" description="Delete element" element1="/src&lt;{입출력기초.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1608684922557" subPackages="false" version="1.0"/>
+</session>
